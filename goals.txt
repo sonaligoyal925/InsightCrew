@@ -1,0 +1,36 @@
+Description: certificates
+Due Date: 20/11/2023
+Completed: No
+--------------------------
+Description: module 1 complete
+Due Date: 14/12/2023
+Completed: No
+--------------------------
+Description: cpp project
+Due Date: 20/11/2023
+Completed: No
+--------------------------
+Description: qwer
+Due Date: 12/11/2023
+Completed: No
+--------------------------
+Description: qwer
+Due Date: 12/11/2023
+Completed: Yes
+--------------------------
+Description: qwer
+Due Date: 12/11/2023
+Completed: Yes
+--------------------------
+Description: qwer
+Due Date: 12/11/2023
+Completed: Yes
+--------------------------
+Description: qwer
+Due Date: 12/11/2023
+Completed: Yes
+--------------------------
+Description: qwer
+Due Date: 12/11/2023
+Completed: Yes
+--------------------------
